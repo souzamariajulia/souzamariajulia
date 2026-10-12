@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./download.svg"
+    src="./terminal (1).svg"
     alt="souzamariajulia Linux Neofetch"
     width="850"
   />
