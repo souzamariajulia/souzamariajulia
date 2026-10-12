@@ -17,12 +17,6 @@
                    ├── FastAPI
                    └── .NET
 
-                   AI & LLMs
-                   ├── LangGraph
-                   ├── LangChain
-                   ├── RAG
-                   └── AI Agents
-
                    Databases
                    ├── PostgreSQL
                    └── SQL Server
