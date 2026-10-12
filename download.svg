@@ -1,0 +1,65 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="440" viewBox="0 0 850 440">
+  <rect width="850" height="440" rx="16" fill="#171521"></rect>
+  <rect x="1.5" y="1.5" width="847" height="437" rx="14.5" fill="none" stroke="#e8a6c9" stroke-width="3"></rect>
+  <path d="M16 1.5H834Q848.5 1.5 848.5 16V48H1.5V16Q1.5 1.5 16 1.5Z" fill="#e9b4d1"></path>
+
+  <circle cx="27" cy="25" r="6" fill="#b66c9b"></circle>
+  <circle cx="48" cy="25" r="6" fill="#d18cb3"></circle>
+  <circle cx="69" cy="25" r="6" fill="#f7d7e9"></circle>
+
+  <text x="425" y="31" text-anchor="middle" font-family="monospace" font-size="15" font-weight="bold" fill="#55324f">souzamariajulia@linux: ~</text>
+
+  <g font-family="monospace">
+    <text x="30" y="85" font-size="17" fill="#f0b2d3">~ $ neofetch</text>
+
+    <!-- Linux penguin -->
+    <g transform="translate(58 143)">
+      <path d="M90 0 C55 0 38 33 39 78 C40 111 24 129 18 164 C12 201 48 230 90 230 C132 230 168 201 162 164 C156 129 140 111 141 78 C142 33 125 0 90 0Z" fill="#e9bad5" stroke="#bb78a7" stroke-width="4"></path>
+      <ellipse cx="90" cy="151" rx="54" ry="64" fill="#f6e4ee"></ellipse>
+      <ellipse cx="69" cy="83" rx="7" ry="9" fill="#31283c"></ellipse>
+      <ellipse cx="111" cy="83" rx="7" ry="9" fill="#31283c"></ellipse>
+      <path d="M77 102 Q90 93 103 102 L90 116Z" fill="#e1a05d"></path>
+      <path d="M36 145 Q5 163 21 190 Q32 207 51 188 M144 145 Q175 163 159 190 Q148 207 129 188" fill="#e7a6cb" stroke="#b678a5" stroke-width="3"></path>
+      <ellipse cx="57" cy="219" rx="31" ry="12" fill="#edb6d5"></ellipse>
+      <ellipse cx="123" cy="219" rx="31" ry="12" fill="#edb6d5"></ellipse>
+    </g>
+
+    <text x="310" y="124" font-size="20" font-weight="bold" fill="#f3b6d8">souzamariajulia@github</text>
+    <path d="M310 139H803" stroke="#8c6686" stroke-width="1.5" stroke-dasharray="5 5"></path>
+
+    <g font-size="16">
+      <text x="310" y="185" fill="#f0a8d0">Role</text>
+      <text x="485" y="185" fill="#f5edf6">Software Developer</text>
+
+      <text x="310" y="217" fill="#f0a8d0">Focus</text>
+      <text x="485" y="217" fill="#f5edf6">Desenvolvimento &amp; Eng. de Dados</text>
+
+      <text x="310" y="249" fill="#f0a8d0">Languages</text>
+      <text x="485" y="249" fill="#f5edf6">Python, TypeScript, C</text>
+
+      <text x="310" y="281" fill="#f0a8d0">Frameworks</text>
+      <text x="485" y="281" fill="#f5edf6">ReactJS, NextJS</text>
+
+      <text x="310" y="313" fill="#f0a8d0">Databases</text>
+      <text x="485" y="313" fill="#f5edf6">PostgreSQL, SQL Server</text>
+
+      <text x="310" y="345" fill="#f0a8d0">Tools</text>
+      <text x="485" y="345" fill="#f5edf6">Docker, Git, Linux</text>
+    </g>
+
+    <!-- Pastel color palette -->
+    <g transform="translate(310 368)">
+      <rect width="55" height="17" fill="#f2b7d6"></rect>
+      <rect x="55" width="55" height="17" fill="#dfa0ce"></rect>
+      <rect x="110" width="55" height="17" fill="#c69bdc"></rect>
+      <rect x="165" width="55" height="17" fill="#aaa7e1"></rect>
+      <rect x="220" width="55" height="17" fill="#91c3da"></rect>
+      <rect x="275" width="55" height="17" fill="#a9d6cd"></rect>
+      <rect x="330" width="55" height="17" fill="#f1dbb9"></rect>
+    </g>
+
+    <text x="30" y="413" font-size="15" fill="#f0b2d3">~ $</text>
+    <rect x="80" y="398" width="9" height="18" fill="#f5e4f1"></rect>
+  </g>
+</svg>
