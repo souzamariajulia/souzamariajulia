@@ -1,5 +1,5 @@
 
-### 🌸 developer@linux:~$ neofetch
+### 🌸 souzamariajulia@linux:~$ neofetch
 
 ```text
        /\_/\       developer@linux
